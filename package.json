@@ -1,8 +1,9 @@
 {
 	"name": "mobx-run-in-reactive-context",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Solution for the \"value is being read outside a reactive context\" warning",
-	"main": "index.js",
+	"main": "./dist/index.js",
+	"typings": "./dist/index.d.ts",
 	"repository": "git@github.com:dimitarnestorov/mobx-run-in-reactive-context.git",
 	"author": "Dimitar Nestorov <opensource@dimitarnestorov.com> (https://dimitarnestorov.com)",
 	"license": "MIT",
